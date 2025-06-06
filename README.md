@@ -14,7 +14,7 @@ Requirements: pip install -r requirements.txt
 replace_model_name = (hdmm, cnn_lstm)
 
 # Training section:
-python -m train.replace_model_name
+python -m training.replace_model_name
 
 # Inference section:
 python -m inference.replace_model_name
