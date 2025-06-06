@@ -6,7 +6,7 @@
 # 2. Hidden Markov Model (hmm)
 # 3. CNN - LSTM Model
 
-# Requirements: 0. pip install -r requirements.txt
+# Requirements: pip install -r requirements.txt
 
 (1) has it's own folder, if you want to run others (2) and (3) please follow the setup below:
 
