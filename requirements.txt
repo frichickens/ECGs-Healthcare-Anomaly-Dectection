@@ -6,3 +6,4 @@ torchvision==0.21.0+cu126
 numpy==1.26.4
 matplotlib==3.9.2
 wfdb==4.3.0
+seaborn==0.13.2
